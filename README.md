@@ -1,4 +1,4 @@
-Shoppo! is an ecommerce store using fake APIs. 
+Shoppo! is a fake API used ecommerce store. 
 
 # Gif
 ![](https://github.com/cymars/shopping-project-react/blob/main/shoppo.gif)
