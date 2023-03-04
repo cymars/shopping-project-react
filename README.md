@@ -1,5 +1,7 @@
-#Gif
-![gif](https://github.com/cymars/shopping-project-react/blob/main/shoppo.gif)
+Shoppo! is an ecommerce store using fake APIs. 
+
+# Gif
+![](https://github.com/cymars/shopping-project-react/blob/main/shoppo.gif)
 
 
 
